@@ -2,7 +2,7 @@
 
 ## 빌드 관련
 
-첫 빌드 시 빌드가 되지 않을 것입니다. Unsplash 오픈 API를 사용했으며, 가입 후 API 사용을 위한 ClientID를 받은 후 사용할 수 있습니다. 프로젝트 내 Data 폴더의 하위 폴더인 Network에서 APIEndpointForMoya, APIEndpoint 파일(이 프로젝트에는 Moya 라이브러리와 URLSession을 사용한 두 가지 경우의 수가 담겨 있습니다.)의 ClientID 값을, 부여받은 ClientID로 변경한 후에 빌드하시기 바랍니다. 
+첫 빌드 시 이미지가 나오지 않을 것입니다. Unsplash 오픈 API를 사용했으며, 가입 후 API 사용을 위한 ClientID를 받은 후 사용할 수 있습니다. 프로젝트 내 Data 폴더의 하위 폴더인 Network에서 APIEndpointForMoya, APIEndpoint 파일(이 프로젝트에는 Moya 라이브러리와 URLSession을 사용한 두 가지 경우의 수가 담겨 있습니다.)의 ClientID 값을, 부여받은 ClientID로 변경한 후에 빌드하시기 바랍니다. 
 
 ## 두 가지 네트워크
 
