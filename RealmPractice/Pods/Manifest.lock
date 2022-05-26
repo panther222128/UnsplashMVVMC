@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (5.6.1)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Realm (10.26.0):
+    - Realm/Headers (= 10.26.0)
+  - Realm/Headers (10.26.0)
+  - RealmSwift (10.26.0):
+    - Realm (= 10.26.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Moya (~> 15.0)
+  - Realm (~> 10.26.0)
+  - RealmSwift (~> 10)
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - Realm
+    - RealmSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  Realm: 97bc2540088e1e88a4b2051ba4b8eac85be0039a
+  RealmSwift: 1bc3cbcb1681c5a9262df5883280123aa2d1d4cf
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 15e75b55dd0592933ac29e6a87f90416d4cd02c3
+
+COCOAPODS: 1.11.3
